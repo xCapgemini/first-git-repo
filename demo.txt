@@ -4,8 +4,4 @@ edited v1
 
 edited v2
 
-<<<<<<< HEAD
 edited code 123 
-=======
-edited browser 123
->>>>>>> a9ed2355a917f6647ed144f25f06b914545efb0b
